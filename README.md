@@ -15,7 +15,7 @@ El sensor PIR devuelve un estado alto (HIGH) cuando detecta movimiento y un esta
 
 ![arduino-pir-sensor_bb](https://user-images.githubusercontent.com/80070044/169893901-11a8c1ad-0e6b-483f-8561-fe237be8563d.png)
 
-```
+```C++
 //Parameters
 const int pirPin  = 2;
 //Variables
